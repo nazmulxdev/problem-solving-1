@@ -10,7 +10,6 @@ function findEven(numbersArray) {
     }
     return evenArray;
   } catch (error) {
-    console.log(error);
     return null;
   }
 }

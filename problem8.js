@@ -18,7 +18,6 @@ function capitalizeEachWord(string) {
     }
     return finalArrayOfString.join(" ");
   } catch (error) {
-    console.log(error);
     return null;
   }
 }

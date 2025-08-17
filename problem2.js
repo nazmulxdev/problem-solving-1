@@ -14,7 +14,6 @@ function countVowels(string) {
 
     return count;
   } catch (error) {
-    console.log(error);
     return null;
   }
 }

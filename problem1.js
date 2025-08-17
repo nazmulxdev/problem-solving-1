@@ -8,8 +8,6 @@ function reverseString(string) {
     }
     return reverse;
   } catch (error) {
-    console.log(error);
     return null;
   }
 }
-

@@ -9,7 +9,6 @@ function sumOfArray(numbersArray) {
 
     return total;
   } catch (error) {
-    console.log(error);
     return null;
   }
 }

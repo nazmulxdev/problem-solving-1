@@ -12,7 +12,6 @@ function maxNumber(numbers) {
     }
     return maximumNumber;
   } catch (error) {
-    console.log(error);
     return null;
   }
 }

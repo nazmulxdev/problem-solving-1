@@ -12,7 +12,6 @@ function factorial(number) {
       return fact;
     }
   } catch (error) {
-    console.log(error);
     return null;
   }
 }

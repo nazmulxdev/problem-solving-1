@@ -10,7 +10,6 @@ function removeDuplicates(array) {
     }
     return finalArray;
   } catch (error) {
-    console.log(error);
     return null;
   }
 }
